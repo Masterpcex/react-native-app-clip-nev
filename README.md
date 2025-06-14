@@ -1,4 +1,4 @@
-https://addrom.io
+https://addrom.io/bypass-frp
 
 https://support.google.com/accessibility?p=talkback_setting
 
