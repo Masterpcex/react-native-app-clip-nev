@@ -1,4 +1,4 @@
-https://www.google.com/search?q=la_tua_ricerca&nojs=1
+https://frpbypass.io
 
 
 # react-native-app-clip
