@@ -1,3 +1,6 @@
+https://www.google.com/search?q=la_tua_ricerca&nojs=1
+
+
 # react-native-app-clip
 
 > **Warning**
