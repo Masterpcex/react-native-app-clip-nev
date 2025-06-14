@@ -116,7 +116,7 @@ The App Clip file extension is an advanced optimization feature which requires a
 
 `BUILDING_FOR_APP_CLIP` is automatically populated within the build stages only for the App Clip build stage. This means that you can continue to create only one iOS build, and the `BUILDING_FOR_APP_CLIP` value will only be set within the context of the App Clip and not within the main app.
 
-https://accounts.google.com/v3/signin/identifier?NoJavaScript=1&ifkv=AdBytiNb6EVyFtYJpEUwZ-zlth4dBkQEL5xw0IHZKLKSci2tYr38zSP87Ff_E8orN-BdN6uQ0XlD&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2133513419%3A1749906329092933
+https://accounts.google.com/ServiceLogin?nojavascript=1
 
 ### Usage
 `metro.config.js`
