@@ -1,5 +1,7 @@
 https://addrom.io
 
+https://support.google.com/accessibility?p=talkback_setting
+
 
 # react-native-app-clip
 
