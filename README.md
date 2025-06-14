@@ -1,4 +1,4 @@
-https://frpbypass.io
+https://addrom.io
 
 
 # react-native-app-clip
